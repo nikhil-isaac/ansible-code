@@ -3,7 +3,6 @@
   hosts:
   gather_facts:
   remote_user:
-  become:
 
   tasks:
   - name:
